@@ -18,8 +18,8 @@ import os
 import datetime
 #importing finished
 from ULTRA import botnickname 
-BOT = str(botnickname) if botnickname else "υℓтяα χ вσт"
-NAME = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ вσу"
+BOT = str(botnickname) if botnickname else "JadduWallah вσт"
+NAME = str(ALIVE_NAME) if ALIVE_NAME else "JadduWallah вσу"
 tim = get_readable_time((time.time() - StartTime))
 #pic 👇
 PIC = os.environ.get("ALIVE_PIC")
@@ -28,7 +28,7 @@ uptime = tim
 #time = date + time okay
 TIME = time.asctime(time.localtime())
 #my name 👇
-ULTRAX = "[υℓтяα χ](https://t.me/ULTRAXOT)"
+ULTRAX = "[JadduWallah χ](https://t.me/Jadduwallah)"
 #my bots repo 👇
 REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
 #grpup👇NAME = "[{MAATER}](tg://user?id={X})"
@@ -37,9 +37,9 @@ REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
 global ghanti
 X = bot.uid
 MASTER = f"[{NAME}](tg://user?id={X})"
-GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
+GROUP = "[SUPPORT GROUP](https://t.me/Jadduwallah)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
-ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+ALIVE = "JadduWallah вσт ιѕ ση 🔥 ƒιяє 🔥" 
+OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ JadduWallah вσт ι αм тнє вєѕт υѕєявσт 💝"
 EMOJI = "🔥"
