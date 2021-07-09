@@ -5,7 +5,7 @@ except:
   os.system("pip install LEGENDX==0.0.21")
   from LEGENDX import id, ID, devs
 finally:
-  print ("ULTRA X IS STARTING WITH TELETHON") 
+  print ("JadduWallah X IS STARTING WITH TELETHON") 
 from ULTRAX import xbot
 from ULTRA import bot, CMD_HELP
 from sys import argv
@@ -124,7 +124,7 @@ async def install():
             print ("Failed")
 import ULTRA._core
 import os
-print("UltraX is Up and Awake! ©️ TeamUltraX 2021")
+print("Jadduwallah is Up and Awake! ©️ Jadduwallah 2021")
 async def legend():
   pro = await xbot.get_me()
   legend = await bot.get_me()
@@ -139,8 +139,8 @@ async def legend():
 
 **➥ Mᴀsᴛᴇʀ** `➪` **@{legend.username}**
 **➥ Assɪsᴛᴀɴᴛ** `➪` **@{pro.username}**
-**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@UltraXchaT**
-**➥ Cʜᴀɴɴᴇʟ** `➪` **@UltraX_SupporT**
+**➥ Sᴜᴘᴘᴏʀᴛ** `➪` **@JadduWallah**
+**➥ Cʜᴀɴɴᴇʟ** `➪` **@JadduWallah**
 
 **Cʜᴇᴄᴋ ᴍᴏɪ Pɪɴɢ ᴛɪᴍᴇ ʙʏ** `.ping` **[Fᴏʀ UsᴇʀBᴏᴛ] or** `/ping` **[Fᴏʀ Assɪsᴛᴀɴᴛ]**
 """
